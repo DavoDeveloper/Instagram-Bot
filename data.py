@@ -1,12 +1,12 @@
-username = "nverner_miayn"
-password = "davo123456789"
+username = ""
+password = ""
 
 direct_users_list=['nverner_miayn','davo7.7']
 
 users_settings_dict={
     'user1':{
-        'login':'nverner_miayn',
-        'password':'davo123456789',
+        'login':'',
+        'password':'',
         'window_size':'800,600'
     }#,
     # 'user2':{
